@@ -2,7 +2,7 @@ print ("=======================================")
 print ("Program Biodata Sederhana Dengan Python")
 print ("=======================================")
  
-nama = "ubed"
+nama = "hapis"
 hobi = "makan"
 alamat = "kebondalem"
 Kota = "pemalang"
