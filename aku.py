@@ -2,7 +2,11 @@ print ("=======================================")
 print ("Program Biodata Sederhana Dengan Python")
 print ("=======================================")
  
+<<<<<<< HEAD
 nama = "Hafidz Ubaidillah"
+=======
+nama = "hapis"
+>>>>>>> b0db517 (Update biodata on main)
 hobi = "makan"
 alamat = "kebondalem"
 Kota = "pemalang"
